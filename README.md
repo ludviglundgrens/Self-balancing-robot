@@ -1,7 +1,7 @@
 # KEX_Mekatronik
-Arudino-bibliotek:
+Arudino-libraries:
 - AccelStepper
-- basicMPU6050 
+- I2CDev 
 
 <img src="https://raw.githubusercontent.com/ludviglundgrens/Self-balancing-robot/master/Images/IMG_2116.PNG"
      style="float: left; margin-right: 10px; width: 500px;" />
